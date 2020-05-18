@@ -1,0 +1,9 @@
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\model\Role.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\model\User.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\SecurityConfiguration.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\service\UserDetailsServiceImpl.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\dao\UserDAO.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\MoviereviewApplication.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\service\SecurityServiceImpl.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\controller\AuthenticationController.java
+D:\Faculty\WAD\moviereview\src\main\java\com\moviereview\moviereview\util\DBConnection.java

@@ -1,0 +1,9 @@
+com\moviereview\moviereview\service\UserDetailsServiceImpl.class
+com\moviereview\moviereview\MoviereviewApplication.class
+com\moviereview\moviereview\service\SecurityServiceImpl.class
+com\moviereview\moviereview\util\DBConnection.class
+com\moviereview\moviereview\dao\UserDAO.class
+com\moviereview\moviereview\SecurityConfiguration.class
+com\moviereview\moviereview\model\User.class
+com\moviereview\moviereview\model\Role.class
+com\moviereview\moviereview\controller\AuthenticationController.class
