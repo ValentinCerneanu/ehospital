@@ -153,7 +153,7 @@ a.custom-card, a.custom-card:hover {
 					<input class="form-check-input position-static" type="text" id="type" name="type" placeholder="Sensor Type"><br>
 					<input class="form-check-input position-static" type="text" id="description" name="description" placeholder="Sensor Description"><br>
 					
-					<select id="patient" name="patient">
+					<select class="form-check-input position-static" id="patient" name="patient">
 					    <option th:each="patient : ${patients}" th:value="${patient.getId()}" th:text="${patient.getName()}">
 					    </option>
 					</select>

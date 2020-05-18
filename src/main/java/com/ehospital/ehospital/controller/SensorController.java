@@ -46,6 +46,10 @@ public class SensorController {
 		List<Sensor> sensors = SensorDAO.getInstance().getSensors();
 		modelAndView.addObject("sensors", sensors);
 		
+		for(Sensor sensor: sensors) {
+			sensor.start();
+		}
+		
 		List<Patient> patients = PatientDAO.getInstance().getPatients();
 		modelAndView.addObject("patients", patients);
 	

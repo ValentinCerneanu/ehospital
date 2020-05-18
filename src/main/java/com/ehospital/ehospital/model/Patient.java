@@ -40,6 +40,9 @@ public class Patient extends Person{
 	public void setBed(int bed) {
 		this.bed = bed;
 	}
+	public String toString() {
+		return "Name: " + super.getName() + " diagnostic: " + diagnostic + " saloon: " + saloon + " bed: " + bed;
+	}
 
 }
 	
